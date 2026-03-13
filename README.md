@@ -1,20 +1,26 @@
 <div align="center">
 
-```
- ▄▀█ █▀▄▀█ █ ▀█▀   █▀ █ █▄░█ █▀▀ █░█
- █▀█ █░▀░█ █ ░█░   ▄█ █ █░▀█ █▄█ █▀█
-```
+<!-- ANIMATED HEADER BANNER -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:00ff88,100:00d4ff&height=200&section=header&text=AMIT%20SINGH&fontSize=70&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20Django%20%7C%20ASP.NET%20%7C%20AWS&descAlignY=58&descSize=16&descColor=00ff88)](https://im-amit-singh.github.io)
 
-# Hey, I'm Amit Singh 👋
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Amit+Singh;Full+Stack+Developer+%7C+3%2B+Years+Production;Angular+%2B+Django+%2B+ASP.NET+%2B+AWS;Building+AI+Dev+Agent+Framework+%F0%9F%A4%96;Open+to+New+Opportunities+%E2%9C%85)](https://im-amit-singh.github.io)
 
-**Full Stack Developer** · Angular · Django · ASP.NET · AWS
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-im--amit--singh.github.io-00ff88?style=for-the-badge&labelColor=0d1117)](https://im-amit-singh.github.io)
+<!-- CONTACT BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-im--amit--singh.github.io-00ff88?style=for-the-badge&labelColor=020408)](https://im-amit-singh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-aa3450149)
 [![GitHub](https://img.shields.io/badge/GitHub-im--amit--singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-amit-singh)
+
 [![Gmail](https://img.shields.io/badge/Gmail-samit3897-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samit3897@gmail.com)
 [![Hotmail](https://img.shields.io/badge/Hotmail-samit3897-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:samit3897@hotmail.com)
 [![Discord](https://img.shields.io/badge/Discord-im__amit__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/im_amit_)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=im-amit-singh&color=00ff88&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/im-amit-singh?style=flat-square&color=00ff88&labelColor=020408&label=Followers)
 
 </div>
 
@@ -123,34 +129,40 @@ class AmitSingh:
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [🏥 Healthcare Management System](https://github.com/im-amit-singh/Health_Care) | Patient records, appointments, role-based access, real-time dashboards | Angular · Django DRF · PostgreSQL · AWS | 🔨 In Dev |
+| [🏥 Healthcare Management](https://github.com/im-amit-singh/Health_Care) | Patient records, appointments, role-based access, real-time dashboards | Angular · Django DRF · PostgreSQL · AWS | 🔨 In Dev |
 | [👥 HRM System](https://github.com/im-amit-singh/hrms) | Employee lifecycle, leave, payroll & performance tracking | Angular 16 · ASP.NET · MySQL | ✅ Live |
 | ⚡ AWS Media Pipeline | Serverless media transcoding pipeline | Lambda · S3 · Elastic Transcoder · Python | ✅ Built |
-| 🛡 DB Backup Automation | PostgreSQL & SQL Server backups to S3 — still in production daily | Python · AWS S3 · PowerShell | ✅ Production |
-| 🤖 AI Dev Agent Framework | Multi-agent pipeline: plan → code → review → deploy, from a single prompt | LangGraph · FastAPI · Docker · AWS | 🔬 Planning |
+| 🛡 DB Backup Automation | PostgreSQL & SQL Server backups to S3 — **still in production daily** | Python · AWS S3 · PowerShell | ✅ Production |
+| 🤖 AI Dev Agent Framework | Multi-agent: plan → code → review → deploy from a single prompt | LangGraph · FastAPI · Docker · AWS | 🔬 Planning |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=im-amit-singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-amit-singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=im-amit-singh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=020408&title_color=00ff88&icon_color=00ff88&text_color=c0cfe0&ring_color=00d4ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-amit-singh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&text_color=c0cfe0" />
+
+</div>
+
+<div align="center">
+
+[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=im-amit-singh&bg_color=020408&color=00ff88&line=00d4ff&point=ff0066&area=true&hide_border=true&title_color=00ff88)](https://github.com/im-amit-singh)
 
 </div>
 
 ---
 
-## 💼 Work Highlights
+## 💡 Work Highlights
 
 ```
 ✅  25–30% query performance improvement via indexing & optimization
-✅  15+ reusable Angular components with custom services & state management  
+✅  15+ reusable Angular components with custom services & state management
 ✅  Secure JWT auth + role-based access across multiple production apps
 ✅  AWS EC2 / Elastic Beanstalk / S3 / RDS / Lambda — hands-on, in production
 ✅  CI/CD pipelines that cut deployment errors to near zero
-✅  DB backup automation adopted by the full team — still running daily
+✅  DB backup automation adopted by the full team — still running daily 🛡
 ```
 
 ---
@@ -159,7 +171,18 @@ class AmitSingh:
 
 <div align="center">
 
-`EC2` · `S3` · `RDS` · `Lambda` · `Elastic Beanstalk` · `CloudWatch` · `IAM` · `VPC` · `API Gateway` · `Elastic Transcoder` · `AWS CLI` · `CI/CD`
+`EC2` · `S3` · `RDS` · `Lambda` · `Elastic Beanstalk` · `CloudWatch` · `IAM` · `VPC` · `API Gateway` · `Elastic Transcoder` · `AWS CLI` · `CI/CD Pipelines`
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> ⚙️ **Setup required** — add this GitHub Action to auto-generate the snake animation:
+> Create `.github/workflows/snake.yml` in your profile repo with the workflow below
 
 </div>
 
@@ -173,6 +196,6 @@ class AmitSingh:
 
 *"Building scalable, secure web applications end-to-end — from Angular UIs to Django & ASP.NET APIs to cloud deployments on AWS."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=im-amit-singh&color=00ff88&style=flat-square&label=Profile+Views)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:020408&height=120&section=footer&animation=fadeIn)](https://im-amit-singh.github.io)
 
 </div>
