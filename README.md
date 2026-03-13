@@ -177,12 +177,11 @@ class AmitSingh:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
-> ⚙️ **Setup required** — add this GitHub Action to auto-generate the snake animation:
-> Create `.github/workflows/snake.yml` in your profile repo with the workflow below
+![snake gif](https://raw.githubusercontent.com/im-amit-singh/im-amit-singh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
