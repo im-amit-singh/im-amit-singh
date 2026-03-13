@@ -121,6 +121,9 @@ class AmitSingh:
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![Elastic Transcoder](https://img.shields.io/badge/Elastic_Transcoder-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI & Agents**
@@ -190,6 +193,9 @@ class AmitSingh:
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Elastic Transcoder](https://img.shields.io/badge/Elastic_Transcoder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
